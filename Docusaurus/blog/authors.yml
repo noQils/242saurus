@@ -27,9 +27,15 @@ dapqil:
   title: Cool Guy
   url: https://github.com/noQils
   image_url: https://github.com/noQils.png
+  page: true
+  socials:
+    github: noQils
 
 ilham:
   name: Ilham Satya Nusabhakti
   title: Another Cool Guy
   url: https://github.com/2021HUMMM
   image_url: https://s1.zerochan.net/Mahoraga.600.3980243.jpg
+  page: true
+  socials:
+    github: 2021HUMMM
